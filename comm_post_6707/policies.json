@@ -1,0 +1,20 @@
+{
+    "my-api-policy": {
+        "access_rights": {
+            "my-api": {
+                "api_id": "my-api",
+                "api_name": "my-api",
+                "versions": [
+                    "Default"
+                ]
+            }
+        },
+		"org_id": "default",
+        "active": true,
+        "name": "my-api-policy",
+        "id": "my-api-policy",
+        "per": 60,
+        "rate": 1000,
+        "state": "active"
+    }
+}
